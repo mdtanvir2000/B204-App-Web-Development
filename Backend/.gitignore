@@ -1,0 +1,35 @@
+# Dependency directories
+/node_modules
+
+# Production build directory
+/build
+
+# Cache and logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Jest coverage
+/coverage/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
